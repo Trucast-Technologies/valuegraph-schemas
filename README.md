@@ -5,4 +5,5 @@ Protocol taxonomy and schema definitions for ValueGraph platform.
 This repository contains the schema definitions and validation logic for the ValueGraph protocol system.
 
 ## Documentation
-Coming soon
+https://private.trucast.ai/
+
